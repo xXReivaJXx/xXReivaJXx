@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 I'm Javier</h1>
-  <p>Problem solver • Aspiring Cybersecurity Analyst • Hands-on Learner</p>
+  <p>Hands-on Learner</p>
 
   <br/>
 
@@ -36,7 +36,4 @@
     <li>GitHub workflows and automation</li>
     <li>Sysmon for endpoint monitoring</li>
   </ul>
-
-  <h2>📫 Let's Connect</h2>
-  <p>Drop me a message if you want to chat about cybersecurity, coding, or cool dad hacks!</p>
 </div>
